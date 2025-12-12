@@ -61,5 +61,3 @@ La aplicación está desarrollada con:
 * **Eliminación:** Botón para eliminar un estudiante, con redirección al listado actualizado.
 * **Mensajes:** Confirmación al registrar, actualizar o eliminar.
 
-
-¿Quieres que haga eso?
